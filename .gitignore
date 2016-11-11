@@ -1,0 +1,8 @@
+bin/
+obj/
+.idea
+*.iml
+*.dll
+*.exe
+packages/
+.DS_Store
